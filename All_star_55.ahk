@@ -1,5 +1,5 @@
 ﻿#Persistent ;
-SetTimer, CheckGameEnd, 10000 ; # 1234510秒檢查一次遊戲是否已經結束 改個測試
+SetTimer, CheckGameEnd, 10000 ; # 1234512141230秒檢查一次遊戲是否已經結束 改個測試
 
 return
 
